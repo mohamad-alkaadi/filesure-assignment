@@ -31,7 +31,7 @@ const SecFive = () => {
               <h4 className="font-[500] text-[20px]">Design</h4>
             </div>
             <p className="pt-2">
-              we adapt the customer's corporate identity to the platform
+              we adapt the customer{"'"}s corporate identity to the platform
               guidelines. We draw convenient and understandable interfaces
             </p>
           </div>

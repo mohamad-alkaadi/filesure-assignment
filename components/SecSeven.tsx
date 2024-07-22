@@ -33,8 +33,8 @@ const SecSeven = () => {
         </div>
         <p className="text-[15px]">
           All the necessary specialists - from a designer to tester - are on our
-          staff. We hire the best specialists in the market. It's expensive but
-          worth it.
+          staff. We hire the best specialists in the market. It{"'"}s expensive
+          but worth it.
         </p>
       </div>
       <div className="shadow-md">
