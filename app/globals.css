@@ -97,3 +97,12 @@
   border: none !important;
   border-bottom: 1px solid #e2e8f0 !important;
 }
+
+@media (max-width: 698px) {
+  .react-tel-input {
+    width: 100% !important;
+  }
+  .react-tel-input .form-control {
+    width: 100% !important;
+  }
+}
