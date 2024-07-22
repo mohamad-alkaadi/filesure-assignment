@@ -15,15 +15,11 @@ const SecFive = () => {
       </h3>
       <div className="flex max-[900px]:flex-col justify-around items-center">
         <div className="flex flex-col">
-          {/* <div className="max-w-[290px] shadow-lg py-4 px-4 mb-6 rounded-[15px] border-slate-50 border-2"> */}
           <div className="min-[900px]:max-w-[390px] w-full min-h-[172px] flex flex-col justify-center shadow-lg py-4 px-4 mb-6 rounded-[15px] border-slate-50 border-2">
             <div className="flex items-center space-x-3">
-              {/* <Image  src={analysis} alt="analysis" /> */}
               <Image src={analysis} alt="analysis" />
-              {/* <h4 className="font-[500]">Analysis</h4> */}
               <h4 className="font-[500] text-[20px]">Analysis</h4>
             </div>
-            {/* <p className="text-[12px] pl-1"> */}
             <p className="pt-2">
               We craft precise technical specs, aligning with your business,
               technology, and user requirements
